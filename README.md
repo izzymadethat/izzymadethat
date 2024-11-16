@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 <div>
   <img src="./images/isaiah-vickers_banner.png" />
 </div>
@@ -67,52 +65,52 @@
   </tbody>
 </table>
 
-## 🖥️ Technologies I've Worked With
+## 🖥️ Technologies I've **_Comfortably_** Worked With
 <h3>Frontend Languages & Frameworks</h3>
-<div  style="display: flex; ; align-items: center; font-size: 3.5rem;">
-  <i class="devicon-html5-plain-wordmark colored"></i>
-  <i class="devicon-css3-plain-wordmark colored"></i>
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-typescript-plain colored"></i>
-  <i class="devicon-react-original colored"></i>
-  <i class="devicon-nextjs-plain colored"></i>
-  <i class="devicon-redux-original colored"></i>
-  <i class="devicon-tailwindcss-plain colored"></i>
-  <i class="devicon-sass-original colored"></i>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 </div>
 
 <h3>Backend Languages & Frameworks</h3>
-<div  style="display: flex; ; align-items: center; font-size: 3.5rem;">
-  <i class="devicon-python-plain colored"></i>
-  <i class="devicon-flask-original colored" style="color: #c1c1c1;"></i>
-  <i class="devicon-nodejs-plain colored"></i>
-  <i class="devicon-rails-plain colored"></i>
-  <i class="devicon-express-original colored"></i>
-  <i class="devicon-csharp-plain colored"></i>
-  <i class="devicon-amazonwebservices-plain colored"></i>
-  <i class="devicon-firebase-plain colored"></i>
-  <i class="devicon-supabase-plain colored"></i>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/>
 </div>
 
 <h3>Databases</h3>
-<div  style="display: flex; align-items: center; font-size: 3.5rem;">
-  <i class="devicon-postgresql-plain colored"></i>
-  <i class="devicon-mysql-plain colored"></i>
-  <i class="devicon-sqlite-plain colored"></i>
-  <i class="devicon-mongodb-plain colored"></i>
-  <i class="devicon-sqlalchemy-plain-wordmark"></i>
-  <i class="devicon-sequelize-plain colored"></i>
-  <i class="devicon-prisma-original colored"></i>
-  <i class="devicon-mongoose-original-wordmark colored"></i>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="40" height="40"/>
 </div>
 
 <h3>Additional Tools & Technologies</h3>
-<div  style="display: flex; ; align-items: center; font-size: 3.5rem;">
-  <i class="devicon-linux-plain colored"></i>
-  <i class="devicon-docker-plain colored"></i>
-  <i class="devicon-kubernetes-plain colored"></i>
-  <i class="devicon-git-plain colored"></i>
-  <i class="devicon-github-original colored"></i>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </div>
 
 <h2>📈 GitHub Stats 📊</h2>
