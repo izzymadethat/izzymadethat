@@ -66,6 +66,7 @@
 </table>
 
 ## 🖥️ Technologies I've **_Comfortably_** Worked With
+
 <h3>Frontend Languages & Frameworks</h3>
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -126,7 +127,14 @@
 <div align="center" style="margin-top: 16px;">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=izzymadethat&theme=tokyonight&hide_border=true"></img>
 </div>
- 
+
+<div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>
 
 ###
 
